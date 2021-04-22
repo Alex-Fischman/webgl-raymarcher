@@ -1,8 +1,8 @@
 precision mediump float;
 const float NAN = 0.0 / 0.0;
 const float MAX = 1000.0;
-const float EPSILON = 0.001;
-const int ITERATIONS = 5;
+const float EPSILON = 0.0001;
+const int ITERATIONS = 7;
 
 /* -------- WORLD TRANSFORMATIONS -------- */
 //Both a function on a point and on the final distance
